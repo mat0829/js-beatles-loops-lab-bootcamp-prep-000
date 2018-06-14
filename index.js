@@ -4,6 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     array[i] = musicians[i] + " plays " + instruments[i]
   }
   return array
+<<<<<<< HEAD
 }
 
 function johnLennonFacts(facts) {
@@ -23,4 +24,6 @@ function iLoveTheBeatles(number) {
   }
   while (number < 15);
   return array;
+=======
+>>>>>>> e6eea3d9daa2f99517e0214ad8b173823dd5a996
 }
